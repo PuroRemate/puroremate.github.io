@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://127.0.0.1/puroremate" resolutions="1x,2x" timestamp="1697094820022">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://127.0.0.1/puroremate" resolutions="1x,2x" timestamp="1697096320340">
   <folder name="css">
     <file name="site_global.css" crc="3948753807"/>
     <file name="master_a-master.css" crc="4201451801" ref="index"/>
@@ -216,10 +216,10 @@
     <file name="u3168-4_2x.png" crc="3935861633" ref="index"/>
     <file name="u4447-4.png" crc="16520585" ref="index"/>
     <file name="u4447-4_2x.png" crc="330024761" ref="index"/>
-    <file name="u4456-4.png" crc="16520585" ref="index"/>
-    <file name="u4456-4_2x.png" crc="330024761" ref="index"/>
+    <file name="u4456-4.png" crc="281404067" ref="index"/>
+    <file name="u4456-4_2x.png" crc="3979630337" ref="index"/>
     <file name="u2550-4.png" crc="166428453" ref="index"/>
     <file name="u2550-4_2x.png" crc="181525261" ref="index"/>
   </folder>
-  <file name="index.html" crc="216998834" seo="true" mt="1697093036705" redirect="true"/>
+  <file name="index.html" crc="4141999787" seo="true" mt="1697096268887" redirect="true"/>
 </manifest>
