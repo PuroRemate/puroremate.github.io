@@ -2,170 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://127.0.0.1/puroremate/index.html</loc>
-    <lastmod>2023-10-12</lastmod>
+    <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/purorematelogo_ver2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/purorematelogo_ver2_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_01-crop-u2610.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_01-crop-u2610_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_03-crop-u2813.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_03-crop-u2813_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_05-crop-u2865.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_05-crop-u2865_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_02-crop-u2787.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_02-crop-u2787_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_04-crop-u2839.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_04-crop-u2839_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_01-crop-u2601.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_01-crop-u2601_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_02-crop-u2779.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_02-crop-u2779_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_03-crop-u2805.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_03-crop-u2805_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_04-crop-u2831.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_04-crop-u2831_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/lg-tv_05-crop-u2857.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/lg-tv_05-crop-u2857_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/breaker_02-crop-u2912.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/breaker_02-crop-u2912_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/breaker_04-crop-u3119.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/breaker_04-crop-u3119_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/breaker_03-crop-u3099.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/breaker_03-crop-u3099_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/breaker_05-crop-u3377.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/breaker_05-crop-u3377_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/breaker_02-crop-u2923.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/breaker_02-crop-u2923_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/breaker_03-crop-u3093.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/breaker_03-crop-u3093_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/breaker_04-crop-u3113.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/breaker_04-crop-u3113_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/breaker_05-crop-u3371.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/breaker_05-crop-u3371_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/3-shears_02-crop-u3144.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/3-shears_02-crop-u3144_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/3-shears_04-crop-u3292.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/3-shears_04-crop-u3292_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/3-shears_03-crop-u3272.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/3-shears_03-crop-u3272_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/3-shears_05-crop-u3312.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/3-shears_05-crop-u3312_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/3-shears_02-crop-u3153.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/3-shears_02-crop-u3153_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/3-shears_03-crop-u3266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/3-shears_03-crop-u3266_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/3-shears_04-crop-u3286.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/3-shears_04-crop-u3286_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/3-shears_05-crop-u3306.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://127.0.0.1/puroremate/images/3-shears_05-crop-u3306_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

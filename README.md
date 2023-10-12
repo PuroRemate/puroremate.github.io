@@ -1,2 +1,0 @@
-# puroremate.github.io
-PuroRemate
