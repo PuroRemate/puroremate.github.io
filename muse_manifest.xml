@@ -1,0 +1,225 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://127.0.0.1/puroremate" resolutions="1x,2x" timestamp="1697094820022">
+  <folder name="css">
+    <file name="site_global.css" crc="3948753807"/>
+    <file name="master_a-master.css" crc="4201451801" ref="index"/>
+    <file name="index.css" crc="4051376731" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="puroremate-favicon.ico" crc="3916700049" ref="index"/>
+    <file name="purorematelogo_ver2.png" crc="195813686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="purorematelogo_ver2_2x.png" crc="4041199955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3899-4.png" crc="4249948283" ref="index"/>
+    <file name="u3899-4_2x.png" crc="4021974047" ref="index"/>
+    <file name="u119-4.png" crc="4040236937" ref="index"/>
+    <file name="u119-4_2x.png" crc="3889990256" ref="index"/>
+    <file name="lg-tv_01-crop-u2610.jpg" crc="4134646728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_01-crop-u2610_2x.jpg" crc="3840409522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_03-crop-u2813.jpg" crc="320597388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_03-crop-u2813_2x.jpg" crc="3999025196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_05-crop-u2865.jpg" crc="70164414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_05-crop-u2865_2x.jpg" crc="4224097719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_02-crop-u2787.jpg" crc="4247547392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_02-crop-u2787_2x.jpg" crc="171205434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_04-crop-u2839.jpg" crc="4269114199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_04-crop-u2839_2x.jpg" crc="524166884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2236-4.png" crc="3873453301" ref="index"/>
+    <file name="u2236-4_2x.png" crc="510011583" ref="index"/>
+    <file name="lg-tv_01-crop-u2601.jpg" crc="210749228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_01-crop-u2601_2x.jpg" crc="3897287509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="lg-tv_02-crop-u2779.jpg" crc="3822143422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_02-crop-u2779_2x.jpg" crc="100432022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_03-crop-u2805.jpg" crc="4123703489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_03-crop-u2805_2x.jpg" crc="4288045375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_04-crop-u2831.jpg" crc="4090945741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_04-crop-u2831_2x.jpg" crc="4108095947" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_05-crop-u2857.jpg" crc="4217150118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lg-tv_05-crop-u2857_2x.jpg" crc="324407710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2237-4.png" crc="157884021" ref="index"/>
+    <file name="u2237-4_2x.png" crc="3955011237" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2539-4.png" crc="4124402151" ref="index"/>
+    <file name="u2539-4_2x.png" crc="4143398522" ref="index"/>
+    <file name="u2555-4.png" crc="4064835184" ref="index"/>
+    <file name="u2555-4_2x.png" crc="4088031199" ref="index"/>
+    <file name="u2901-4.png" crc="370434156" ref="index"/>
+    <file name="u2901-4_2x.png" crc="4221751244" ref="index"/>
+    <file name="breaker_02-crop-u2912.jpg" crc="3831214015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_02-crop-u2912_2x.jpg" crc="53692176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_04-crop-u3119.jpg" crc="3772029765" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_04-crop-u3119_2x.jpg" crc="3766092542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_03-crop-u3099.jpg" crc="55085336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_03-crop-u3099_2x.jpg" crc="4062346004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_05-crop-u3377.jpg" crc="98539262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_05-crop-u3377_2x.jpg" crc="366538180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2934-4.png" crc="3873453301" ref="index"/>
+    <file name="u2934-4_2x.png" crc="510011583" ref="index"/>
+    <file name="breaker_02-crop-u2923.jpg" crc="4224969738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_02-crop-u2923_2x.jpg" crc="170238706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_03-crop-u3093.jpg" crc="3925940158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_03-crop-u3093_2x.jpg" crc="394792627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_04-crop-u3113.jpg" crc="435590599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_04-crop-u3113_2x.jpg" crc="133243741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_05-crop-u3371.jpg" crc="181514449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="breaker_05-crop-u3371_2x.jpg" crc="3932028377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2933-4.png" crc="157884021" ref="index"/>
+    <file name="u2933-4_2x.png" crc="3955011237" ref="index"/>
+    <file name="u2938-4.png" crc="184966689" ref="index"/>
+    <file name="u2938-4_2x.png" crc="461135099" ref="index"/>
+    <file name="u2939-4.png" crc="3828402607" ref="index"/>
+    <file name="u2939-4_2x.png" crc="3935861633" ref="index"/>
+    <file name="u3140-4.png" crc="55435508" ref="index"/>
+    <file name="u3140-4_2x.png" crc="4210051358" ref="index"/>
+    <file name="3-shears_02-crop-u3144.jpg" crc="4000465922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_02-crop-u3144_2x.jpg" crc="3839403698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_04-crop-u3292.jpg" crc="4010207511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_04-crop-u3292_2x.jpg" crc="262682341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_03-crop-u3272.jpg" crc="4111400866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_03-crop-u3272_2x.jpg" crc="3943780649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_05-crop-u3312.jpg" crc="342696581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_05-crop-u3312_2x.jpg" crc="191804830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3142-4.png" crc="3873453301" ref="index"/>
+    <file name="u3142-4_2x.png" crc="510011583" ref="index"/>
+    <file name="3-shears_02-crop-u3153.jpg" crc="363295838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_02-crop-u3153_2x.jpg" crc="188257585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_03-crop-u3266.jpg" crc="3969489309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_03-crop-u3266_2x.jpg" crc="4021200610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_04-crop-u3286.jpg" crc="4216404630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_04-crop-u3286_2x.jpg" crc="3976647674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_05-crop-u3306.jpg" crc="242941040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-shears_05-crop-u3306_2x.jpg" crc="3979097514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3163-4.png" crc="157884021" ref="index"/>
+    <file name="u3163-4_2x.png" crc="3955011237" ref="index"/>
+    <file name="u3167-4.png" crc="184966689" ref="index"/>
+    <file name="u3167-4_2x.png" crc="461135099" ref="index"/>
+    <file name="u3168-4.png" crc="3828402607" ref="index"/>
+    <file name="u3168-4_2x.png" crc="3935861633" ref="index"/>
+    <file name="u4447-4.png" crc="16520585" ref="index"/>
+    <file name="u4447-4_2x.png" crc="330024761" ref="index"/>
+    <file name="u4456-4.png" crc="16520585" ref="index"/>
+    <file name="u4456-4_2x.png" crc="330024761" ref="index"/>
+    <file name="u2550-4.png" crc="166428453" ref="index"/>
+    <file name="u2550-4_2x.png" crc="181525261" ref="index"/>
+  </folder>
+  <file name="index.html" crc="216998834" seo="true" mt="1697093036705" redirect="true"/>
+</manifest>
