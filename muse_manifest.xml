@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="http://127.0.0.1/puroremate" resolutions="1x" timestamp="1697435950191">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="http://127.0.0.1/puroremate" resolutions="1x" timestamp="1697439333018">
   <folder name="css">
     <file name="site_global.css" crc="3789976429"/>
-    <file name="master_a-master.css" crc="4224797714" ref="index"/>
+    <file name="master_a-master.css" crc="348762869" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="3911664481" ref="index"/>
-    <file name="nomq_index.css" crc="190590157" ref="index"/>
+    <file name="index.css" crc="4271744640" ref="index"/>
+    <file name="nomq_index.css" crc="203466796" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -31,6 +31,24 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pardonourappearanceweareunderconstructionsign_ver1377x244.png" crc="283788192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pardonourappearanceweareunderconstructionsign_ver1.png" crc="244671712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pardonourappearanceweareunderconstructionsign_ver1359x232.png" crc="3960769423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pardonourappearanceweareunderconstructionsign_ver1256x166.png" crc="3906735438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="325645120" seo="true" mt="1697435778888" redirect="true"/>
+  <file name="index.html" crc="216571371" seo="true" mt="1697439271580" redirect="true"/>
 </manifest>

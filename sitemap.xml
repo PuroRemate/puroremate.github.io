@@ -8,5 +8,17 @@
     <image:image>
       <image:loc>http://127.0.0.1/puroremate/images/purorematelogo_ver2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://127.0.0.1/puroremate/images/pardonourappearanceweareunderconstructionsign_ver1377x244.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://127.0.0.1/puroremate/images/pardonourappearanceweareunderconstructionsign_ver1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://127.0.0.1/puroremate/images/pardonourappearanceweareunderconstructionsign_ver1359x232.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://127.0.0.1/puroremate/images/pardonourappearanceweareunderconstructionsign_ver1256x166.png</image:loc>
+    </image:image>
   </url>
 </urlset>
